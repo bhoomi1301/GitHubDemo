@@ -2,3 +2,8 @@ p{
     color: bisque;
     background-color: brown;
 }
+
+.animalList{
+    list-style: none;
+    display: inline-block;
+}
