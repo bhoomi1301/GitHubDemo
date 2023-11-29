@@ -2,3 +2,10 @@ p{
     color: bisque;
     background-color: brown;
 }
+
+.container{
+    display: flex;
+    background-color: aliceblue;
+    text-align: center;
+    justify-content: center;
+}
